@@ -31,10 +31,10 @@
 - [📝 License](#license)
 
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📖 Hello Microverse <a name="about-project"></a>
 
 
-**[Hello Microverse]** is a first microverse project submission...
+**Hello Microverse** is a first microverse project submission...
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -67,7 +67,7 @@
 ### Key Features <a name="key-features"></a>
 
 
-- **[Show html.index]**
+- **Show html.index**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -172,7 +172,7 @@ I would like to thank code reviwers and Microverse.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/pirc25/Hello-Microverse/blob/add-files/MIT.md) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
